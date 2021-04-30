@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766928923916",
+    "firebase_url": "https://attandance-system-501b7-default-rtdb.firebaseio.com",
+    "project_id": "attandance-system-501b7",
+    "storage_bucket": "attandance-system-501b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766928923916:android:9c83ac825ee004ad8a6d29",
+        "android_client_info": {
+          "package_name": "com.example.attendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766928923916-6m7b7pbm8eom7ao6opctjr3ao25glc2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsJhcrSq4kNF6teeSXi36gGJnEokKGek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766928923916-6m7b7pbm8eom7ao6opctjr3ao25glc2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
