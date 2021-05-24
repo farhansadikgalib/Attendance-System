@@ -5,7 +5,7 @@ Manege teacher and student information,course allocation System,take live Attend
 * App OS : Android
 * Min SDK : Andoid 4.0
 * Frontend : JAVA,XML
-* Backend : FireBase by Google
+* Backend : Firebase
 
 ## Feature
 * Optimized Splash Screen.
@@ -19,20 +19,20 @@ Manege teacher and student information,course allocation System,take live Attend
 
 ## Screen Shot
 
-[splash]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/splash.png
-[intro]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/intro.png
-[Account Type]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/Account%20Type.png
-[admin panel]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/admin%20panel.png
-[SelectBatchDept]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/SelectBatchDept.png
-[studentList]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/studentList.png
-[add student]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/add%20student.png
-[addCourse]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/addCourse.png
-[CourseList]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/CourseList.png
-[addTeacher]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/addTeacher.png
-[techerPanlen]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/techerPanlen.png
-[TakeAttendence]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/TakeAttendence.png
-[TeacherViewAttendance]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/TeacherViewAttendance.png
-[studentViewAttendance]: https://github.com/sabuj87/raw/blob/master/Attendence%20System(Scren%20sot)/studentViewAttendance.png
+[splash]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/splash.png
+[intro]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/intro.png
+[Account Type]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/Account%20Type.png
+[admin panel]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/admin%20panel.png
+[SelectBatchDept]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/SelectBatchDept.png
+[studentList]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/studentList.png
+[add student]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/add%20student.png
+[addCourse]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/addCourse.png
+[CourseList]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/CourseList.png
+[addTeacher]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/addTeacher.png
+[techerPanlen]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/techerPanlen.png
+[TakeAttendence]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/TakeAttendence.png
+[TeacherViewAttendance]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/TeacherViewAttendance.png
+[studentViewAttendance]: https://github.com/farhansadikgalib/raw/blob/master/Attendence%20Management%20System/studentViewAttendance.png
 
 |    Splash screen      |    Intro slide |  Account Type  | admin panel  |
 | ------------- |:-------------: |:------:|:---------------------:|
@@ -50,12 +50,7 @@ Manege teacher and student information,course allocation System,take live Attend
 | ------------- |:-------------: |:------:|
 |![alt text][TakeAttendence]  | ![alt text][TeacherViewAttendance] | ![alt text][studentViewAttendance] |
 
-[Download APK](https://www.mediafire.com/file/zb3uqkx4b8f251h/Attendance_System.apk/file)
-
 ## Ask any question...
-* Email : sabujaeed@gmail.com
-* [Download APK](http://www.mediafire.com/file/mlimk0cekd76ggi/Joy_Bangla.apk/file)
-* [Facebook](https://www.facebook.com/saeed.sabuj)
-* [Twitter](https://twitter.com/sabujsaeed)
-* [Instagram](https://www.instagram.com/assabuj87/)
-* [Youtube](https://www.youtube.com/abusaeedsabuj)
+* Email : farhansadikgalib@gmail.com
+* [Facebook](https://www.facebook.com/farhansadikgalib)
+
