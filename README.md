@@ -52,5 +52,4 @@ Manege teacher and student information,course allocation System,take live Attend
 
 ## Ask any question...
 * Email : farhansadikgalib@gmail.com
-* [Facebook](https://www.facebook.com/farhansadikgalib)
 
